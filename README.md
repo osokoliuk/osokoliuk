@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm an astrophysicist, currently studying an undegraduate course in physics at the University of Aberdeen.
+I'm an astrophysicist, currently studying an undegraduate course in physics at the [University of Aberdeen](https://www.abdn.ac.uk/).
+
 Additionally, I work remotely as a research scholar at the Main Astronomical Observatory, NAS of Ukraine.
 
 # 💻 Tech Stack:
